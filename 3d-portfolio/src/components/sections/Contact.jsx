@@ -110,10 +110,10 @@ const Contact = () => {
     e.preventDefault();
     emailjs
       .sendForm(
-        "service_tox7kqs",
-        "template_nv7k7mj",
+        "service_ooiczae",
+        "template_7o5992o",
         form.current,
-        "SybVGsYS52j2TfLbi"
+        "dW7cXatou2y0jjgI_O2BA"
       )
       .then(
         (result) => {

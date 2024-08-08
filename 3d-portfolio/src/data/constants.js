@@ -2,8 +2,8 @@ export const Bio = {
   name: "Swathi Kuppusamy",
   roles: [
     "Full Stack Developer",
-    "Blockchain Developer",
-    "Federated Learning Engineer",
+    "Salesforce Developer",
+    //"Machine Learning Engineer",
     "Programmer",
   ],
   description:
